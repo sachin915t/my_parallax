@@ -78,8 +78,11 @@ footer a{
     color: white;
     
 }
+.border{
+    color:black;
+}
 
 a:hover{
-    
+    transition:1s;
     background-color: rgb(33, 173, 216);
 }
